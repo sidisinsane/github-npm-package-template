@@ -1,0 +1,13 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": false,
+    "source.sortImports": true,
+    "source.fixAll": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "prettier.configPath": ".prettierrc"
+}
